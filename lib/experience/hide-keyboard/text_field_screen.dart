@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_experiments/experience/hideKeyboard/extensions/extentions_on_context.dart';
+import 'package:flutter_experiments/experience/hide-keyboard/extensions/extentions_on_context.dart';
 
 class TextFieldScreen extends StatelessWidget {
   const TextFieldScreen({super.key});
